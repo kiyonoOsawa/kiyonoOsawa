@@ -1,4 +1,4 @@
-<h1>MySkills</h1>
+<h1></h1>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=ai,pr,ae,p5js,unity,apple,swift,html,css,figma,github,vscode,react" />
 
 <h1>GitHubStatus</h1>
