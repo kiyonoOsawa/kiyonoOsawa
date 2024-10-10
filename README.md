@@ -1,5 +1,5 @@
 <h1></h1>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=swift,apple,figma,firebase,ai,pr,ae,html,css,github,vscode,p5js,ruby" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=swift,apple,figma,firebase,ai,pr,ae,html,css,github,vscode,p5js,ruby,python,docker,html,css,nextjs,reactjs" />
 
 <h1>GitHubStatus</h1>
 <p align="left">
